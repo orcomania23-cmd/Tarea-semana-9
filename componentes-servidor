@@ -1,7 +1,16 @@
 Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
 
-Sistema operativo
-Node.js
-Aplicación server.js
-Puerto
-Logs
+Sistema operativo:
+
+es el que permite garantizar que funcione correctamente las herramientas que hacen funcionar nuestro dispositivo el cual también nos permite  ejecutar aplicaciones necesarias para dar desarrollo a nuestras actividades tecnologías.
+
+Node.js :
+es nuestro espacio de trabajo o herramienta tecnológica la cual nos permite crear y ejecutar códigos directamente desde nuestro servidor .
+
+Aplicación : herramienta de programación creada para realizar tareas concretas
+
+server.js :es el archivo principal donde configuramos nuestro servidor indicándole a nuestro computador como realizar diferentes tipos de  peticiones al servidor.
+
+Puerto : es un herramienta de conexión que permite la entrada y salida de datos.
+
+Logs : herramienta que registra cronológicamente todos las actividades y errores que ocurren dentro de nuestro sistema operativo  o aplicacion.
